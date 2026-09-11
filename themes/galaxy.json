@@ -1,0 +1,20 @@
+{
+  "accent": {
+    "b": 252,
+    "g": 132,
+    "hex": "#c084fc",
+    "r": 192
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Deep space with nebulae, orbits, and a supernova.",
+  "key": "galaxy",
+  "name": "Galaxy",
+  "tags": [
+    "dark",
+    "space",
+    "cosmic"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

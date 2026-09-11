@@ -1,0 +1,20 @@
+{
+  "accent": {
+    "b": 53,
+    "g": 87,
+    "hex": "#ef5735",
+    "r": 239
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Cinematic stratovolcano with ash, embers, and lightning.",
+  "key": "volcano",
+  "name": "Volcano",
+  "tags": [
+    "dark",
+    "fire",
+    "warm"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

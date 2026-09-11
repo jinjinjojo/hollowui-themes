@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 153,
+    "g": 72,
+    "hex": "#ec4899",
+    "r": 236
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Synthwave grid horizon with laser lines.",
+  "key": "neongrid",
+  "name": "Neon Grid",
+  "tags": [
+    "synthwave",
+    "retro"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

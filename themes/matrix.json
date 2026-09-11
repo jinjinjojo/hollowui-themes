@@ -1,0 +1,20 @@
+{
+  "accent": {
+    "b": 145,
+    "g": 255,
+    "hex": "#00ff91",
+    "r": 0
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Falling green rain. Bright head, fading tail. Console-perfect.",
+  "key": "matrix",
+  "name": "Matrix",
+  "tags": [
+    "dark",
+    "code",
+    "hacker"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

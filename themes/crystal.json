@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 250,
+    "g": 139,
+    "hex": "#a78bfa",
+    "r": 167
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Refracting crystal shards.",
+  "key": "crystal",
+  "name": "Crystal",
+  "tags": [
+    "cool",
+    "soft"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

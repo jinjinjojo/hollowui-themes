@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 71,
+    "g": 224,
+    "hex": "#fde047",
+    "r": 253
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Warm firefly meadow.",
+  "key": "fireflies",
+  "name": "Fireflies",
+  "tags": [
+    "warm",
+    "soft"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 36,
+    "g": 191,
+    "hex": "#fbbf24",
+    "r": 251
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Windblown desert dunes.",
+  "key": "dune",
+  "name": "Dune",
+  "tags": [
+    "warm",
+    "earth"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

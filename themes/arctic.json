@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 252,
+    "g": 211,
+    "hex": "#7dd3fc",
+    "r": 125
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Aurora above a frozen tundra.",
+  "key": "arctic",
+  "name": "Arctic",
+  "tags": [
+    "cool",
+    "ice"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

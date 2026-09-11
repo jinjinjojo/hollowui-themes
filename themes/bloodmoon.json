@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 38,
+    "g": 38,
+    "hex": "#dc2626",
+    "r": 220
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Crimson clouds under a red moon.",
+  "key": "bloodmoon",
+  "name": "Bloodmoon",
+  "tags": [
+    "dark",
+    "warm"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

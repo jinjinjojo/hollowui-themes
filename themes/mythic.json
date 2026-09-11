@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 21,
+    "g": 204,
+    "hex": "#facc15",
+    "r": 250
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Golden runes, coins, and slow orbital circles.",
+  "key": "mythic",
+  "name": "Mythic",
+  "tags": [
+    "warm",
+    "fantasy"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

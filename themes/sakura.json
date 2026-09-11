@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 212,
+    "g": 168,
+    "hex": "#f9a8d4",
+    "r": 249
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Cherry blossom petals drifting.",
+  "key": "sakura",
+  "name": "Sakura",
+  "tags": [
+    "soft",
+    "warm"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 60,
+    "g": 146,
+    "hex": "#fb923c",
+    "r": 251
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Solar surface flares.",
+  "key": "corona",
+  "name": "Corona",
+  "tags": [
+    "warm",
+    "space"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

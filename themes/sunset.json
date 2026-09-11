@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 80,
+    "g": 141,
+    "hex": "#ff8d50",
+    "r": 255
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Golden hour clouds drifting.",
+  "key": "sunset",
+  "name": "Sunset",
+  "tags": [
+    "warm",
+    "soft"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

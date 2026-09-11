@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 238,
+    "g": 211,
+    "hex": "#22d3ee",
+    "r": 34
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Deep-sea light shafts and jellyfish.",
+  "key": "abyss",
+  "name": "Abyss",
+  "tags": [
+    "dark",
+    "deep"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

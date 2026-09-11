@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 212,
+    "g": 182,
+    "hex": "#06b6d4",
+    "r": 6
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Rain over a neon city skyline.",
+  "key": "cyberpunk",
+  "name": "Cyberpunk",
+  "tags": [
+    "dark",
+    "neon"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

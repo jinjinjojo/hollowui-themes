@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 94,
+    "g": 197,
+    "hex": "#22c55e",
+    "r": 34
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Falling leaves and canopy sunlight.",
+  "key": "rainforest",
+  "name": "Rainforest",
+  "tags": [
+    "nature",
+    "green"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

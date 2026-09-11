@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 6,
+    "g": 119,
+    "hex": "#d97706",
+    "r": 217
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Brass gears and steam.",
+  "key": "steampunk",
+  "name": "Steampunk",
+  "tags": [
+    "warm",
+    "retro"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

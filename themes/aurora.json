@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 249,
+    "g": 232,
+    "hex": "#67e8f9",
+    "r": 103
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Aurora borealis wave gradients.",
+  "key": "aurora",
+  "name": "Aurora",
+  "tags": [
+    "cool",
+    "soft"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

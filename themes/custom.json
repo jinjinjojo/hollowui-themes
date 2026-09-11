@@ -1,0 +1,18 @@
+{
+  "accent": {
+    "b": 246,
+    "g": 92,
+    "hex": "#8b5cf6",
+    "r": 139
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "User-defined accent + backdrop.",
+  "key": "custom",
+  "name": "Custom",
+  "tags": [
+    "user"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

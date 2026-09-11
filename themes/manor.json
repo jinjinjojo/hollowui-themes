@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 184,
+    "g": 163,
+    "hex": "#94a3b8",
+    "r": 148
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Rain on a gothic manor.",
+  "key": "manor",
+  "name": "Manor",
+  "tags": [
+    "dark",
+    "cool"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}

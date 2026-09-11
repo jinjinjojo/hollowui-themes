@@ -1,0 +1,19 @@
+{
+  "accent": {
+    "b": 166,
+    "g": 184,
+    "hex": "#14b8a6",
+    "r": 20
+  },
+  "author": "hollowui",
+  "created": "2026-09-11",
+  "description": "Deep water with bioluminescence.",
+  "key": "ocean",
+  "name": "Ocean",
+  "tags": [
+    "cool",
+    "deep"
+  ],
+  "updated": "2026-09-11",
+  "version": "1.0.0"
+}
