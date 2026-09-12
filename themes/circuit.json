@@ -1,0 +1,26 @@
+{
+  "accent": {
+    "b": 191,
+    "g": 212,
+    "hex": "#2dd4bf",
+    "r": 45
+  },
+  "author": "hollowui",
+  "backdrop": {
+    "css": ".hb-tb-circuit{background:linear-gradient(180deg,#020a09 0%,#010504 60%,#000202 100%)}.hb-tb-circuit .trace{stroke-dasharray:6 6;animation:hb-tb-circuit-flow 3.2s linear infinite}.hb-tb-circuit .trace.b{animation-duration:4.6s;animation-direction:reverse}.hb-tb-circuit .pulse{filter:drop-shadow(0 0 6px #5eead4) drop-shadow(0 0 14px #2dd4bf)}@keyframes hb-tb-circuit-flow{0%{stroke-dashoffset:0;stroke-opacity:.45}50%{stroke-opacity:.95}100%{stroke-dashoffset:-120;stroke-opacity:.45}}@media (prefers-reduced-motion:reduce){.hb-tb-circuit .trace{animation:none}}",
+    "svg": "<svg viewBox='0 0 1000 1000' preserveAspectRatio='xMidYMid slice' class='hb-tb-layer hb-tb-circuit'><defs><pattern id='cp' width='120' height='120' patternUnits='userSpaceOnUse'><path d='M0 60h120M60 0v120' stroke='#2dd4bf' stroke-opacity='.15' fill='none'/><circle cx='60' cy='60' r='3' fill='#2dd4bf' fill-opacity='.5'/></pattern></defs><rect width='1000' height='1000' fill='#020a09'/><rect width='1000' height='1000' fill='url(#cp)'/><path id='t1' class='trace a' d='M0 200H300V400H700V600H1000' stroke='#2dd4bf' stroke-width='2' fill='none'/><path id='t2' class='trace b' d='M0 700H400V500H800V300H1000' stroke='#5eead4' stroke-width='2' fill='none'/><circle class='pulse' r='7' fill='#5eead4'><animateMotion dur='4s' repeatCount='indefinite'><mpath href='#t1'/></animateMotion></circle><circle class='pulse' r='6' fill='#2dd4bf'><animateMotion dur='6s' repeatCount='indefinite'><mpath href='#t2'/></animateMotion></circle></svg>"
+  },
+  "created": "2026-09-12",
+  "description": "Teal PCB traces with current pulses tracing the board.",
+  "hasEmbeddedBackdrop": true,
+  "key": "circuit",
+  "name": "Circuit",
+  "tags": [
+    "dark",
+    "teal",
+    "tech",
+    "board"
+  ],
+  "updated": "2026-09-12",
+  "version": "1.0.0"
+}

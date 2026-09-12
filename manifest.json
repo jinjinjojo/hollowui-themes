@@ -1,138 +1,160 @@
 {
-  "generated_at": "2026-09-11T07:04:08Z",
+  "generated_at": "2026-09-12T00:00:00Z",
+  "schema": 2,
   "themes": {
     "abyss": {
       "accent": "#22d3ee",
-      "hash": "sha256:01faac12415fb09735494b5d47853ffa498cb1bdcd4c724a3c6396ab25bd4884",
+      "hash": "sha256:97f376109c29a1067eb140bc552adedca68473ae898cb942c2dd4d1d402c73e3",
       "name": "Abyss",
       "url": "themes/abyss.json"
     },
+    "aether": {
+      "accent": "#f5d382",
+      "hasEmbeddedBackdrop": true,
+      "hash": "sha256:502f1b76c6632d2ab10d67d48ea90dee319ad91ef5042bab7a355b4f0ff76ca4",
+      "name": "Aether",
+      "url": "themes/aether.json"
+    },
     "arctic": {
       "accent": "#7dd3fc",
-      "hash": "sha256:4a8adc9c761fdbcf1dd531fd86ebe1246df06dfd4165b2b1e4921fb8b5c6e2cc",
+      "hash": "sha256:4ce206c0e8cc7aebb357499e9fc9990f09d4f4dfa9eb2862d50df1d45581abc6",
       "name": "Arctic",
       "url": "themes/arctic.json"
     },
     "aurora": {
       "accent": "#67e8f9",
-      "hash": "sha256:0d6372bc851ba42cde64d6b7aae9e710ad42449a3c4814e199655a68b0de99ca",
+      "hash": "sha256:37c80781a787be06d5afeabd946b2acd91d4ea4cedb5c3bdadb90ba2bdbf871f",
       "name": "Aurora",
       "url": "themes/aurora.json"
     },
     "bloodmoon": {
       "accent": "#dc2626",
-      "hash": "sha256:0ca517194a7e06de7bf21d1d8bac887db87f05a697b95dc094c54da72c746e1c",
+      "hash": "sha256:0755d63df8ed19df76458058f6fc1817d9f3e021b8c4a10eaac61bd55d490893",
       "name": "Bloodmoon",
       "url": "themes/bloodmoon.json"
     },
+    "circuit": {
+      "accent": "#2dd4bf",
+      "hasEmbeddedBackdrop": true,
+      "hash": "sha256:dab80b7f17bccefdd61049e675f09d9d1e63a42b89a44d57ffc9e0a1e952624a",
+      "name": "Circuit",
+      "url": "themes/circuit.json"
+    },
     "corona": {
       "accent": "#fb923c",
-      "hash": "sha256:40e37148eb9c4d10a5f5f23a814c6e9b1e82396b9be57d5e91b86a04ac369cb7",
+      "hash": "sha256:fb1eac3378b1b5aaa40b152108919e23772628b0ea291d3083616c77f9bbae8a",
       "name": "Corona",
       "url": "themes/corona.json"
     },
     "crystal": {
       "accent": "#a78bfa",
-      "hash": "sha256:ee90e9bba0faf5282d6ab092fdd7c3c8ec39c97328ef9d3695179747ef9b0344",
+      "hash": "sha256:396135ebd7ec4a364e5c77974133a252abae4a6b7bfc353658730190317f46b1",
       "name": "Crystal",
       "url": "themes/crystal.json"
     },
     "custom": {
       "accent": "#8b5cf6",
-      "hash": "sha256:e2010792cd0b9779c6e41ad083b95e2bdb2f90b919c1da3d1d0d5b60067bafbc",
+      "hash": "sha256:94291ef7624d7031699b948c473320de302d1198a3c9d6536df56e477e46a08a",
       "name": "Custom",
       "url": "themes/custom.json"
     },
     "cyberpunk": {
       "accent": "#06b6d4",
-      "hash": "sha256:cd1a715a43ae71246f9aeec931cb163838a88f4a2ba7601741688db3ab1e11c3",
+      "hash": "sha256:7e9cae447b8d86833cba64da7061113a40c3a189bb3a448ec5ab28f41924d8d9",
       "name": "Cyberpunk",
       "url": "themes/cyberpunk.json"
     },
     "dune": {
       "accent": "#fbbf24",
-      "hash": "sha256:5767f5eb11b720a083fe9873b5e9ec83c81c01109af0e94063e72fe5020116ee",
+      "hash": "sha256:e49b467988503c1324778500924805f91dd10883b10f5a09563060c05846bd9b",
       "name": "Dune",
       "url": "themes/dune.json"
     },
     "fireflies": {
       "accent": "#fde047",
-      "hash": "sha256:e037ff7d5eef7e8f453442e6fa552d3a90d3543874c83c8781f0b91cc9673487",
+      "hash": "sha256:d2674c58b1bdc4caf850581c58038a2095de302e5f369fe1c6bcb2ad6b9e637c",
       "name": "Fireflies",
       "url": "themes/fireflies.json"
     },
     "galaxy": {
       "accent": "#c084fc",
-      "hash": "sha256:d6bb5121e689d9cbaad5be9646e5ea51186d8966e6982d97feac6e6781925646",
+      "hash": "sha256:346f5d7bad295f1fe22f442a11c784324113a80f7beec5354ed6c8056b53bb41",
       "name": "Galaxy",
       "url": "themes/galaxy.json"
     },
     "manor": {
       "accent": "#94a3b8",
-      "hash": "sha256:28702f956f26568ac42746df0cce29e1203afce003191a328358102e58320712",
+      "hash": "sha256:5ef06f6e2ff163af4bde5a02e09c5f4372b5b2113caed191376d30d953426bd2",
       "name": "Manor",
       "url": "themes/manor.json"
     },
     "matrix": {
       "accent": "#00ff91",
-      "hash": "sha256:9fa0420c3c02b6566269c97732c4ad4158700fad64cba32ecf0e4149cc3b7c7e",
+      "hash": "sha256:f9751278c53526915b9b2f6aa8d1d70a08a46dd3178d8252c2fe1794e3735b5c",
       "name": "Matrix",
       "url": "themes/matrix.json"
     },
+    "moth": {
+      "accent": "#f5deb3",
+      "hasEmbeddedBackdrop": true,
+      "hash": "sha256:8573d062997d3606e09082a1e33038ea3e65fbe47af763208b0d7297037e9a20",
+      "name": "Moth",
+      "url": "themes/moth.json"
+    },
     "mythic": {
       "accent": "#facc15",
-      "hash": "sha256:fd0f3f8e3f5a2dececf73e907ab240c29a5c4babff6e33bd23a2c29df8c5910f",
+      "hash": "sha256:50e2602c57051ec26ef62c21c09be35e04ca192d8f2cfec97802eeddad2f65a9",
       "name": "Mythic",
       "url": "themes/mythic.json"
     },
     "neongrid": {
       "accent": "#ec4899",
-      "hash": "sha256:3637e047e2af60f956ae493f92ad589211e8be063f4a471f7500bd3f17b6c292",
+      "hash": "sha256:fc12587b692af88298514ef41273a384d09834b5f42ff9fd4f1228af37252080",
       "name": "Neon Grid",
       "url": "themes/neongrid.json"
     },
     "ocean": {
       "accent": "#14b8a6",
-      "hash": "sha256:91e20b4e23b318792f9c8cba0692ce4ae0ee9f9cb1f2a0dcd4bb333e5fa25fd7",
+      "hash": "sha256:2f7239218ddec133684377e656c876d92f6c28559c910031e6fe722c5fe43413",
       "name": "Ocean",
       "url": "themes/ocean.json"
     },
     "rainforest": {
       "accent": "#22c55e",
-      "hash": "sha256:f399bcc4b4747d57b4d7c40d778f83993c0c3e4e5d6bed15a1caa13732c9f653",
+      "hash": "sha256:4ae6eaff1708fabf8336717a5b26eef2816d20352fb0201a7cdd091feae7ba2d",
       "name": "Rainforest",
       "url": "themes/rainforest.json"
     },
     "sakura": {
       "accent": "#f9a8d4",
-      "hash": "sha256:4786d18d402c9be9a589dc8f3658a40fb01cb04831099ba8fc9d1d27347a16ad",
+      "hash": "sha256:1ffc087f2dc041a6f4ddba72020eae39fddaed24a3a8d6eadc123dd89cc038ea",
       "name": "Sakura",
       "url": "themes/sakura.json"
     },
     "steampunk": {
       "accent": "#d97706",
-      "hash": "sha256:58bd58252e8e9753153089f7e7630d5eb35784df5567471fb5aba69fa6ff6cb9",
+      "hash": "sha256:3e090baebba93d1b3f2e5926caa4f2af96480fbc3731a6493ecffe80e214a0c3",
       "name": "Steampunk",
       "url": "themes/steampunk.json"
     },
     "sunset": {
       "accent": "#ff8d50",
-      "hash": "sha256:3348a9c0dcfcfe87f2eb9645b224a77f0f172f8838cf1d8ca59e26a74bc26e82",
+      "hash": "sha256:95e0b0e5fdba303ce4c7c499ec40e8e5e95f7f978c9d1f239fdab8eba5e7c243",
       "name": "Sunset",
       "url": "themes/sunset.json"
     },
     "volcano": {
       "accent": "#ef5735",
-      "hash": "sha256:aa3c127a886392cc7729ab41dad2caf1fbb16699e781bfdaa72df9eda8e57ecd",
+      "hash": "sha256:8a91e8d524a556df602c871cb66fb73078e374283951f1577503cda99b960113",
       "name": "Volcano",
       "url": "themes/volcano.json"
     },
     "zen": {
       "accent": "#84cc16",
-      "hash": "sha256:ce6e2e91a61921ec1ffc8ae15801059a5a3b16f9e83c98c74340f172167f0ffe",
+      "hash": "sha256:509c5b86cb01508f3209a79a7b7809e5e1213cbdc313474d05675970170a4c16",
       "name": "Zen",
       "url": "themes/zen.json"
     }
   },
-  "version": "2026.09.11"
+  "version": "2026.09.12"
 }

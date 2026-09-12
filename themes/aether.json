@@ -1,0 +1,26 @@
+{
+  "accent": {
+    "b": 130,
+    "g": 211,
+    "hex": "#f5d382",
+    "r": 245
+  },
+  "author": "hollowui",
+  "backdrop": {
+    "css": ".hb-tb-aether{background:radial-gradient(ellipse at 50% 55%,#1a1408 0%,#080604 55%,#020101 100%)}.hb-tb-aether .wisp{transform-box:fill-box;transform-origin:center;animation:hb-tb-aether-drift 14s ease-in-out infinite;mix-blend-mode:screen}.hb-tb-aether .wisp:nth-child(2){animation-duration:18s;animation-delay:-3s}.hb-tb-aether .wisp:nth-child(3){animation-duration:22s;animation-delay:-7s}.hb-tb-aether .wisp:nth-child(4){animation-duration:16s;animation-delay:-2s}.hb-tb-aether .wisp:nth-child(5){animation-duration:20s;animation-delay:-11s}@keyframes hb-tb-aether-drift{0%,100%{transform:translateY(-40px) scaleX(1);opacity:.55}50%{transform:translateY(40px) scaleX(1.35);opacity:1}}@media (prefers-reduced-motion:reduce){.hb-tb-aether .wisp{animation:none}}",
+    "svg": "<svg viewBox='0 0 1000 1000' preserveAspectRatio='xMidYMid slice' class='hb-tb-layer hb-tb-aether'><defs><linearGradient id='ag' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f5d382' stop-opacity='0'/><stop offset='.5' stop-color='#fde8b0' stop-opacity='.5'/><stop offset='1' stop-color='#f5d382' stop-opacity='0'/></linearGradient></defs><rect width='1000' height='1000' fill='#0a0806'/><g class='wisps'><rect class='wisp' x='80' y='-200' width='40' height='1400' fill='url(#ag)'/><rect class='wisp' x='260' y='-200' width='60' height='1400' fill='url(#ag)'/><rect class='wisp' x='480' y='-200' width='30' height='1400' fill='url(#ag)'/><rect class='wisp' x='680' y='-200' width='55' height='1400' fill='url(#ag)'/><rect class='wisp' x='880' y='-200' width='35' height='1400' fill='url(#ag)'/></g></svg>"
+  },
+  "created": "2026-09-12",
+  "description": "Pale gold aurora with wispy vertical mist drifting on velvet dark.",
+  "hasEmbeddedBackdrop": true,
+  "key": "aether",
+  "name": "Aether",
+  "tags": [
+    "dark",
+    "gold",
+    "aurora",
+    "calm"
+  ],
+  "updated": "2026-09-12",
+  "version": "1.0.0"
+}

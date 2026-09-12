@@ -1,0 +1,26 @@
+{
+  "accent": {
+    "b": 179,
+    "g": 222,
+    "hex": "#f5deb3",
+    "r": 245
+  },
+  "author": "hollowui",
+  "backdrop": {
+    "css": ".hb-tb-moth{background:radial-gradient(ellipse at 50% 50%,#1a0f1a 0%,#0a0510 60%,#050208 100%)}.hb-tb-moth .moth{transform-box:fill-box;transform-origin:center;animation:hb-tb-moth-drift 12s ease-in-out infinite}.hb-tb-moth .moth:nth-of-type(2){animation-duration:9s;animation-delay:-2s}.hb-tb-moth .moth:nth-of-type(3){animation-duration:14s;animation-delay:-5s}.hb-tb-moth .moth:nth-of-type(4){animation-duration:11s;animation-delay:-3s}.hb-tb-moth ellipse{filter:blur(.3px)}@keyframes hb-tb-moth-drift{0%,100%{transform:translate(0,0)}25%{transform:translate(12px,-8px)}50%{transform:translate(-6px,10px)}75%{transform:translate(8px,4px)}}@media (prefers-reduced-motion:reduce){.hb-tb-moth .moth{animation:none}.hb-tb-moth ellipse{animation:none!important}}",
+    "svg": "<svg viewBox='0 0 1000 1000' preserveAspectRatio='xMidYMid slice' class='hb-tb-layer hb-tb-moth'><rect width='1000' height='1000' fill='#050208'/><g class='moth' transform='translate(200 300)'><ellipse rx='30' ry='16' fill='#f5deb3' opacity='.72'><animate attributeName='rx' values='30;12;30' dur='2s' repeatCount='indefinite'/></ellipse></g><g class='moth' transform='translate(500 600)'><ellipse rx='24' ry='12' fill='#e6c88f' opacity='.6'><animate attributeName='rx' values='24;10;24' dur='1.6s' repeatCount='indefinite'/></ellipse></g><g class='moth' transform='translate(800 400)'><ellipse rx='34' ry='18' fill='#fef3c7' opacity='.78'><animate attributeName='rx' values='34;14;34' dur='2.4s' repeatCount='indefinite'/></ellipse></g><g class='moth' transform='translate(350 800)'><ellipse rx='22' ry='11' fill='#f5deb3' opacity='.55'><animate attributeName='rx' values='22;9;22' dur='1.8s' repeatCount='indefinite'/></ellipse></g></svg>"
+  },
+  "created": "2026-09-12",
+  "description": "Soft cream fluttering shapes drifting across velvet dark.",
+  "hasEmbeddedBackdrop": true,
+  "key": "moth",
+  "name": "Moth",
+  "tags": [
+    "dark",
+    "cream",
+    "soft",
+    "night"
+  ],
+  "updated": "2026-09-12",
+  "version": "1.0.0"
+}
